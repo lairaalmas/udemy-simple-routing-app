@@ -7,3 +7,6 @@ Guided project developed during the course [React - The Complete Guide (incl Hoo
 - 20: Building a multi page SPA with react router
 
 ## Technologies:
+
+- [React Router](https://reactrouter.com/en/main)
+  - installed using `npm i react-router-dom`
