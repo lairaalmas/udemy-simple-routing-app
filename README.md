@@ -11,5 +11,8 @@ Guided project developed during the course [React - The Complete Guide (incl Hoo
 - [React Router](https://reactrouter.com/en/main)
   - installed using `npm i react-router-dom`
   - Allow the app to use:
-    - useParams, useNavigate
-    - Link, NavLink, createBrowserRouter, RouterProvider, Outlet
+    - `createBrowserRouter`, `RouterProvider`
+    - `Outlet`
+    - `Link`, `NavLink`
+    - `useParams`, `useNavigate`
+    
