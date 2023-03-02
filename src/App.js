@@ -21,7 +21,7 @@ import RootLayout from "./pages/Root";
 
 const router = createBrowserRouter([
   {
-    path: "/toot",
+    path: "/",
     element: <RootLayout />,
     errorElement: <ErrorPage />,
     children: [
